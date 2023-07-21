@@ -6,3 +6,9 @@
 .srclogo {
     width: 6.25em;
   }
+
+.text-center{
+  text-align: center;
+  padding: 10px;
+  size: 100px;
+}
