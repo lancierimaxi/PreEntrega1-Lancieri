@@ -8,8 +8,8 @@ const ItemList = ({productos}) => {
       return(
         <Item
         key={p.id}
+        category={p.category}
         nombre={p.nombre}
-        imagen={p.imagen}
         description={p.description}
         precio={p.precio}
         stock={p.stock}
