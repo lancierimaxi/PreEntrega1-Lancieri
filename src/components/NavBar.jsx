@@ -20,17 +20,17 @@ const Navbar = () => {
                 </MenuButton>
                 <MenuList>
                     <MenuItem>
-                    <Link to={`/category/${cat1}`}>
+                    <Link to={`/category/1`}>
                     Category A
                     </Link>
                     </MenuItem>
                     <MenuItem>
-                    <Link to={`/category/${cat2}`}>
+                    <Link to={`/category/2`}>
                     Category B
                     </Link>
                     </MenuItem>
                     <MenuItem>
-                    <Link to={`/category/${cat3}`}>
+                    <Link to={`/category/3`}>
                     Category C
                     </Link>
                     </MenuItem>
